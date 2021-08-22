@@ -1,0 +1,4 @@
+A counter where increment button
+increases value by one,
+decrement button decreases value by one.
+And reset button sets the value to zero.

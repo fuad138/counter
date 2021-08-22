@@ -1,0 +1,40 @@
+main{
+   padding: 200px;
+   text-align: center;
+
+}
+
+#counter
+{
+
+    font-size: 80px;
+    margin-bottom: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+}
+h1
+{
+    text-align: center;
+    color: #000;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+body
+{
+    background-color: rgba(128, 128, 128, 0.616);
+    
+}
+
+
+
+button{
+ padding: 20px;
+ background-color: black;
+ border: 5px solid black;
+ color: green;
+ cursor: pointer;
+ font-family: fantasy;
+ font-style: italic;
+
+}
+
